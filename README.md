@@ -10,7 +10,7 @@ The GOTODOCOtransit space contains some of our popular cleanskins intended for s
 
 - Project documentation.
 - Product prototype development.
-- Testing.
+- Product testing or external testing.
 - Small project team onboarding.
 - Return to the same codespace to work on long-running feature work.
 
